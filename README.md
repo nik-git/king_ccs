@@ -7,6 +7,11 @@ https://drive.google.com/file/d/1QdMfOtOo6FnsR7Ml-qHk9aGV-Gm6l--m/view?usp=shari
 ### matching_candies.py
 This is the Python script file which has the complete automation code for the challenge.
 
+### How to run as Pytest
+Run below command to test the steps as Pytest test case. This will work for two devices / brands.
+#### pytest test_ccs.py --brand Samsung
+Download conftest.py and test_ccs.py
+
 ### Setup
 1. Create a Windows VM with 8 GB RAM and 4 core CPU.
 2. Install Java 1.8
