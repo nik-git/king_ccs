@@ -5,7 +5,7 @@ Please download the demo video which shows the working automation
 https://drive.google.com/file/d/1QdMfOtOo6FnsR7Ml-qHk9aGV-Gm6l--m/view?usp=sharing
 
 ### matching_candies.py
-This is the Python script file which has the complete automation code for the chalenge.
+This is the Python script file which has the complete automation code for the challenge.
 
 ### Setup
 1. Create a Windows VM with 8 GB RAM and 4 core CPU.
