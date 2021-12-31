@@ -24,4 +24,11 @@ Download conftest.py and test_ccs.py
 9. From Pycharm run : matching_candies.py
 10. Automation will be executed on connected mobile device.
 
+### How to create Appium automation setup on Windows VM on Google Cloud Platform
+  1. Create a Free account on GCP by providing details of your Debit card. Only Rs. 2.0 will be deducted for verification.
+  2. Generally it is not allowed you to run Andriod Emulators on a VM. Use the link below to create a VM on GCP that will allow to run Android Emulators.
+      https://cloud.google.com/community/tutorials/setting-up-an-android-development-environment-on-compute-engine
+  3. Follow the steps given in the Setup section above to install all the required softwares.
+  4. Create an Android Emulator in Android Studio using AVD Manager.
+
 
