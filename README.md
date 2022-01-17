@@ -2,6 +2,8 @@
 ### Recording link
 Please download the demo video which shows the working automation
 
+Youtube : https://youtu.be/BpIBt9zUPTs
+
 https://drive.google.com/file/d/1QdMfOtOo6FnsR7Ml-qHk9aGV-Gm6l--m/view?usp=sharing
 
 ### matching_candies.py
